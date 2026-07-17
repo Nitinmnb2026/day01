@@ -1,1 +1,2 @@
 New footer on login page added 
+background changed to green
